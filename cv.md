@@ -1,6 +1,6 @@
 # Anton Andrusenko
 ********
-## Contact info:
+# Contact info:
 * E-mail: ilastdinosaur@gmail.com
 * GitHub: @tonyando  
 * Telegram: @ant_naa
