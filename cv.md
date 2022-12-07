@@ -19,3 +19,6 @@ as a javascript developer. At the moment I have no special experience in program
   #define MAX_ACCEL_EDIT_VALUES       { 6000, 6000, 200, 20000 } // depending of installed mechanics
 #endif
 ```
+#Education
+*Ural State Federal University
+**Bachelors degree at petrochemical management
