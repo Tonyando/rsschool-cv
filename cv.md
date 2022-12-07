@@ -21,7 +21,7 @@ as a javascript developer. At the moment I have no special experience in program
 ```
 # Education
 * Ural State Federal University
-** Bachelors degree at petrochemical management
++ Bachelors degree at petrochemical management
 # Languages
 * Russian- Native
 * English- C2 (EFSET Certification)
